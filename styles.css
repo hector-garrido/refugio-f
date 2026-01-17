@@ -114,3 +114,6 @@ body {
   min-width: 0;
 }
 
+.fb-post {
+  max-width: 100%;
+}
